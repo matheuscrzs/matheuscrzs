@@ -21,8 +21,7 @@ Curto resolver problema de verdade — não só fazer funcionar, mas entender po
 
 <h3 align="left">Connect with me!</h3>
 
-<a href="[https://www.linkedin.com/in/matheus-dacruz]" target="_blank"><img alt="Logo Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
+<a href="https://www.linkedin.com/in/matheus-dacruz" target="_blank"><img alt="Logo Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:mc2397818@gmail.com" target="_blank"><img alt="Gmail Logo" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <h3 align="center">My Stack ~</h3>
@@ -32,9 +31,6 @@ Curto resolver problema de verdade — não só fazer funcionar, mas entender po
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,postgres,firebase,java,linux&perline=6)](https://skillicons.dev)
   
 </div>
-<br>
-
-
 <br>
 <br>
 
