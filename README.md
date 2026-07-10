@@ -21,7 +21,8 @@ Curto resolver problema de verdade — não só fazer funcionar, mas entender po
 
 <h3 align="left">Connect with me!</h3>
 
-<a href="[https://www.linkedin.com/in/matheus-da-cruz-352688260]" target="_blank"><img alt="Logo Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="[www.linkedin.com/in/matheus-dacruz]" target="_blank"><img alt="Logo Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 <a href="mailto:mc2397818@gmail.com" target="_blank"><img alt="Gmail Logo" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <h3 align="center">My Stack ~</h3>
@@ -33,16 +34,7 @@ Curto resolver problema de verdade — não só fazer funcionar, mas entender po
 </div>
 <br>
 
-<!--grafico
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipetaua&theme=react-dark)]([https://github.com/Ashutosh00710/github-readme-activity-graph])
---->
 
-<!--
-<div align="center">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetaua&theme=prussian&layout=compact"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetaua&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-</div>
---->
 <br>
 <br>
 
