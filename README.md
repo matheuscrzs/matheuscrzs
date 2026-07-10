@@ -1,8 +1,6 @@
 # matheuscrzs-
 
 
-**# Matheus Cruz
-
 Estudante de Engenharia de Software (Unifatecie) construindo minha entrada no mercado de tech — hoje transitando entre **QA** e **desenvolvimento**, com experiência prática nas duas pontas.
 
 Gosto de sistemas bem organizados e de entender o "porquê" por trás de cada bug ou decisão de arquitetura — não só resolver, mas entender a causa.
